@@ -1,2 +1,2 @@
 # misc_ml
-Miscellaneous implementations of Clustering and Regression
+Miscellaneous implementations of Clustering, Regression, Metric evaluation and Segmentation
